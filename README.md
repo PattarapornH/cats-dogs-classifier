@@ -1,1 +1,0 @@
-# Cats vs Dog Classifier
